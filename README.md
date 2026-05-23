@@ -21,16 +21,16 @@ rohan = {
                     ],
   "experience"    : "3+ yrs @ Voksedigital",
   "certification" : "Microsoft Certified: Azure Data Engineer Associate (DP-203) ✅",
-  "languages"     : ["English", "Hindi", "German 🇩🇪 A2→B1"],
+  "languages"     : ["English", "German A2→B1", "Hindi"],
   "open_to"       : "Internship / Werkstudent / Part-time Data Analytics roles"
 }
 ```
 
 - 🎓 Pursuing **M.Sc. Data Analytics & Decision Science** at RWTH Aachen University, building on a solid foundation from my **B.E. in Information Technology** (SPPU)
 - 💼 3+ years designing **enterprise-grade ETL pipelines**, scalable cloud architectures, and executive-level BI dashboards at Voksedigital
-- 🔬 Currently deepening expertise in **XGBoost, SHAP explainability, and time series forecasting** — bridging engineering rigour with analytical depth
+- 🔬 Currently deepening expertise in **XGBoost, SHAP explainability, and time series forecasting**, bridging engineering rigour with analytical depth
 - 🏅 **Microsoft Certified Azure Data Engineer** — proficient across ADF, Databricks, ADLS, and Azure SQL
-- 🌍 Fluent in English · conversational Hindi · actively advancing German **(A2 → B1)**
+- 🌍 Fluent in English · actively advancing German **(A2 → B1)** · conversational Hindi
 - 🚀 Open to **Internship / Werkstudent / Part-time** Data Analytics roles in Germany
 
 <br clear="right"/>
