@@ -18,13 +18,15 @@
 
 ```python
 rohan = {
-  "location" : "Aachen, Germany 🇩🇪",
-  "msc"      : "Data Analytics — RWTH Aachen University",
-  "be"       : "Information Technology — SPPU",
-  "exp"      : "3+ yrs @ Voksedigital",
-  "cert"     : "Azure Data Engineer (DP-203) ✅",
-  "langs"    : ["English", "Hindi", "German A2→B1"],
-  "open_to"  : "Internship / Werkstudent / Part-time"
+  "location"      : "Aachen, Germany 🇩🇪",
+  "education"     : [
+                      "M.Sc. Data Analytics — RWTH Aachen University",
+                      "B.E. Information Technology — SPPU"
+                    ],
+  "experience"    : "3+ yrs @ Voksedigital",
+  "certification" : "Microsoft Certified: Azure Data Engineer (DP-203) ✅",
+  "languages"     : ["English", "Hindi", "German 🇩🇪 A2→B1"],
+  "open_to"       : "Internship / Werkstudent / Part-time Data Analytics roles"
 }
 ```
 
