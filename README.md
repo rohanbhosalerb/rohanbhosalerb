@@ -39,33 +39,46 @@ rohan = {
 
 <div align="center">
 
-**☁️ Cloud & Data Engineering**
-
-[![My Skills](https://skillicons.dev/icons?i=azure,python,spark,gitlab&theme=dark)](https://skillicons.dev)
-
-![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![ADLS](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-<br/>
-
-**📊 Analytics & ML**
-
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,jupyter&theme=dark)](https://skillicons.dev)
-
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-<br/>
-
-**🗄️ Databases & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
-
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/─────%20☁️%20Cloud%20%26%20Engineering%20─────-0d1117?style=for-the-badge"/>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,linux&theme=dark"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/─────%20📊%20Analytics%20%26%20ML%20─────-0d1117?style=for-the-badge"/>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,jupyter&theme=dark"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/───────────%20🗄️%20Databases%20───────────-0d1117?style=for-the-badge"/>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark"/>
+      </a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
