@@ -12,23 +12,23 @@
 
 ### `> whoami`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280"/>
-</p>
+<img align="right" width="180" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 rohan = {
   "location"      : "Aachen, Germany 🇩🇪",
   "education"     : [
-                      "M.Sc. Data Analytics — RWTH Aachen University",
-                      "B.E. Information Technology — SPPU"
-                    ],
+      "M.Sc. Data Analytics — RWTH Aachen University",
+      "B.E. Information Technology — SPPU"
+  ],
   "experience"    : "3+ yrs @ Voksedigital",
-  "certification" : "Microsoft Certified: Azure Data Engineer (DP-203) ✅",
+  "certification" : "Azure Data Engineer (DP-203) ✅",
   "languages"     : ["English", "Hindi", "German 🇩🇪 A2→B1"],
-  "open_to"       : "Internship / Werkstudent / Part-time Data Analytics roles"
+  "open_to"       : "Internship / Werkstudent / Part-time"
 }
 ```
+
+<br clear="right"/>
 
 - 🎓 Pursuing **M.Sc. Data Analytics & Decision Science** at RWTH Aachen University, building on a solid foundation from my **B.E. in Information Technology** (SPPU)
 - 💼 3+ years designing **enterprise-grade ETL pipelines**, scalable cloud architectures, and executive-level BI dashboards at Voksedigital
