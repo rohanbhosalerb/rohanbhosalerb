@@ -95,7 +95,7 @@ rohan = {
 |---|---|---|---|
 | [🏦 Australian Credit Approval](https://github.com/rohanbhosalerb/Australian_Credit_Approval) | End-to-end credit approval classifier with EDA, feature selection & hyperparameter tuning | Python · SVM · LR · GridSearchCV | **87.68% acc · 0.92 AUC** |
 | 🔜 Employee Churn Prediction | Predict employee attrition with SHAP explainability | Python · XGBoost · SHAP | *Coming soon* |
-| 🔜 Sales Analytics Pipeline | ETL → SQL → interactive dashboard | Python · SQL · Power BI | *Coming soon* |
+| [📊 Sales Analytics Pipeline](https://github.com/rohanbhosalerb/Sales-Analytics) | EDA pipeline — data cleaning, visualizations & insights | Python · Pandas · Seaborn · Matplotlib | **✅ Complete** |
 
 </div>
 
