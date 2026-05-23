@@ -83,21 +83,7 @@ rohan = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohanbhosalerb&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d9ff&icon_color=7c3aed&count_private=true&rank_icon=github"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbhosalerb&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohanbhosalerb&theme=tokyonight&hide_border=true&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohanbhosalerb&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
