@@ -41,25 +41,31 @@ rohan = {
 
 **☁️ Cloud & Data Engineering**
 
-![Azure](https://img.shields.io/badge/Azure-00d9ff?style=for-the-badge&logo=microsoftazure&logoColor=0d1117)
-![ADF](https://img.shields.io/badge/Data_Factory-00d9ff?style=for-the-badge&logo=microsoftazure&logoColor=0d1117)
-![Databricks](https://img.shields.io/badge/Databricks-00d9ff?style=for-the-badge&logo=databricks&logoColor=0d1117)
-![ADLS](https://img.shields.io/badge/Data_Lake-00d9ff?style=for-the-badge&logo=microsoftazure&logoColor=0d1117)
-![PySpark](https://img.shields.io/badge/PySpark-00d9ff?style=for-the-badge&logo=apachespark&logoColor=0d1117)
+[![My Skills](https://skillicons.dev/icons?i=azure,python,spark,gitlab&theme=dark)](https://skillicons.dev)
 
-**📊 Analytics & Visualisation**
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![ADLS](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-7c3aed?style=for-the-badge&logo=powerbi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-7c3aed?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-7c3aed?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-7c3aed?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<br/>
 
-**🗄️ Databases**
+**📊 Analytics & ML**
 
-![SQL](https://img.shields.io/badge/SQL-00ff88?style=for-the-badge&logo=mysql&logoColor=0d1117)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-00ff88?style=for-the-badge&logo=microsoftsqlserver&logoColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-00ff88?style=for-the-badge&logo=mysql&logoColor=0d1117)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,jupyter&theme=dark)](https://skillicons.dev)
+
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+**🗄️ Databases & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
