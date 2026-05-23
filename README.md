@@ -10,32 +10,39 @@
 
 
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ### `> whoami`
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 rohan = {
   "location"      : "Aachen, Germany 🇩🇪",
   "education"     : [
-                      "M.Sc. Data Analytics & Decision Science — RWTH Aachen University",
-                      "B.E. Information Technology — Savitribai Phule Pune University (SPPU)"
+                      "M.Sc. Data Analytics — RWTH Aachen University",
+                      "B.E. Information Technology — SPPU"
                     ],
   "experience"    : "3+ yrs @ Voksedigital",
-  "certification" : "Microsoft Certified: Azure Data Engineer Associate (DP-203) ✅",
+  "certification" : "Azure Data Engineer (DP-203) ✅",
   "languages"     : ["English", "Hindi", "German 🇩🇪 A2→B1"],
-  "open_to"       : "Internship / Werkstudent / Part-time Data Analytics roles"
+  "open_to"       : "Internship / Werkstudent / Part-time"
 }
 ```
 
-- 🎓 Pursuing **M.Sc. Data Analytics & Decision Science** at RWTH Aachen University, building on a strong foundation from my **B.E. in Information Technology** (SPPU)
+- 🎓 Pursuing **M.Sc. Data Analytics & Decision Science** at RWTH Aachen University, building on a solid foundation from my **B.E. in Information Technology** (SPPU)
 - 💼 3+ years designing **enterprise-grade ETL pipelines**, scalable cloud architectures, and executive-level BI dashboards at Voksedigital
 - 🔬 Currently deepening expertise in **XGBoost, SHAP explainability, and time series forecasting** — bridging engineering rigour with analytical depth
-- 🏅 **Microsoft Certified Azure Data Engineer** — proficient across the full Azure data stack: ADF, Databricks, ADLS, and Azure SQL
+- 🏅 **Microsoft Certified Azure Data Engineer** — proficient across ADF, Databricks, ADLS, and Azure SQL
 - 🌍 Fluent in English · conversational Hindi · actively advancing German **(A2 → B1)**
 - 🚀 Open to **Internship / Werkstudent / Part-time** Data Analytics roles in Germany
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
