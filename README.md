@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0d1117&height=220&section=header&text=Rohan%20Bhosale&fontSize=60&fontColor=00d9ff&animation=fadeIn&stroke=00d9ff&strokeWidth=2&fontAlignY=45&desc=Azure%20Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20M.Sc.%20RWTH%20Aachen&descAlignY=65&descColor=8892b0&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Microsoft+Certified+Azure+Data+Engineer+%F0%9F%8F%85;3%2B+Years+Building+Data+Pipelines+%26+BI+Solutions;M.Sc.+Data+Analytics+%40+RWTH+Aachen+%F0%9F%8E%93;Open+to+Werkstudent+Roles+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Microsoft+Certified+Azure+Data+Engineer+%F0%9F%8F%85;3%2B+Years+Building+Scalable+Data+Pipelines;M.Sc.+Data+Analytics+%40+RWTH+Aachen+University+%F0%9F%8E%93;B.E.+Information+Technology+%40+SPPU+%F0%9F%8E%93;Open+to+Internship+%7C+Werkstudent+%7C+Part-time+Roles+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 
 </div>
 
@@ -16,20 +16,24 @@
 
 ```python
 rohan = {
-  "location"  : "Aachen, Germany 🇩🇪",
-  "education" : "M.Sc. Data Analytics — RWTH Aachen",
-  "experience": "3+ yrs @ Voksedigital",
-  "cert"      : "Azure Data Engineer (DP-203) ✅",
-  "languages" : ["English", "Hindi", "German 🇩🇪 A2→B1"],
-  "open_to"   : "Werkstudent / Part-time Data roles"
+  "location"      : "Aachen, Germany 🇩🇪",
+  "education"     : [
+                      "M.Sc. Data Analytics & Decision Science — RWTH Aachen University",
+                      "B.E. Information Technology — Savitribai Phule Pune University (SPPU)"
+                    ],
+  "experience"    : "3+ yrs @ Voksedigital",
+  "certification" : "Microsoft Certified: Azure Data Engineer Associate (DP-203) ✅",
+  "languages"     : ["English", "Hindi", "German 🇩🇪 A2→B1"],
+  "open_to"       : "Internship / Werkstudent / Part-time Data Analytics roles"
 }
 ```
 
-- 🔭 Currently working on **ML projects & RWTH coursework**
-- 🌱 Learning **XGBoost, SHAP, Time Series Forecasting**
-- 🏗️ Background in **Azure pipelines + Power BI dashboards**
-- 💬 Ask me about **ETL pipelines, Power BI, credit scoring**
-- 🇩🇪 Pushing German from **A2 → B1**
+- 🎓 Pursuing **M.Sc. Data Analytics & Decision Science** at RWTH Aachen University, building on a strong foundation from my **B.E. in Information Technology** (SPPU)
+- 💼 3+ years designing **enterprise-grade ETL pipelines**, scalable cloud architectures, and executive-level BI dashboards at Voksedigital
+- 🔬 Currently deepening expertise in **XGBoost, SHAP explainability, and time series forecasting** — bridging engineering rigour with analytical depth
+- 🏅 **Microsoft Certified Azure Data Engineer** — proficient across the full Azure data stack: ADF, Databricks, ADLS, and Azure SQL
+- 🌍 Fluent in English · conversational Hindi · actively advancing German **(A2 → B1)**
+- 🚀 Open to **Internship / Werkstudent / Part-time** Data Analytics roles in Germany
 
 <br clear="right"/>
 
