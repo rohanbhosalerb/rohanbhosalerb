@@ -57,7 +57,7 @@ rohan = {
       <img src="https://img.shields.io/badge/─────%20📊%20Analytics%20%26%20ML%20─────-0d1117?style=for-the-badge"/>
       <br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,jupyter&theme=dark"/>
+        <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,jupyter&theme=dark"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -73,9 +73,10 @@ rohan = {
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark"/>
       </a>
-      &nbsp;&nbsp;
+      <br/><br/>
       <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
 </table>
