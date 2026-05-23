@@ -12,7 +12,7 @@
 
 ### `> whoami`
 
-<img align="right" width="200" hspace="25" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="190" hspace="60" vspace="10" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 rohan = {
