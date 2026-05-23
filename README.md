@@ -1,113 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0d1117&height=220&section=header&text=Rohan%20Bhosale&fontSize=60&fontColor=00d9ff&animation=fadeIn&stroke=00d9ff&strokeWidth=2&fontAlignY=45&desc=Azure%20Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20M.Sc.%20RWTH%20Aachen&descAlignY=65&descColor=8892b0&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0d1117&height=180&section=header&text=Sales%20Analytics&fontSize=52&fontColor=00d9ff&animation=fadeIn&stroke=00d9ff&strokeWidth=2&fontAlignY=50&desc=Exploratory%20Data%20Analysis%20%7C%20Python%20%7C%20Pandas%20%7C%20Seaborn&descAlignY=70&descColor=8892b0&descSize=15"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Microsoft+Certified+Azure+Data+Engineer+%F0%9F%8F%85;3%2B+Years+Building+Scalable+Data+Pipelines;M.Sc.+Data+Analytics+%40+RWTH+Aachen+University+%F0%9F%8E%93;B.E.+Information+Technology+%40+SPPU+%F0%9F%8E%93;Open+to+Internship+%7C+Werkstudent+%7C+Part-time+Roles+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=End-to-end+Sales+EDA+with+Python+%F0%9F%90%8D;Data+Cleaning+%E2%86%92+Analysis+%E2%86%92+Visualizations+%F0%9F%93%8A;1%2C000+Orders+%7C+5+Categories+%7C+4+Regions;Built+by+Rohan+Bhosale+%40+RWTH+Aachen" alt="Typing SVG" />
+
+<br/>
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
+[![License](https://img.shields.io/badge/License-MIT-00d9ff?style=for-the-badge)](LICENSE)
 
 </div>
 
 ---
 
-
-
-### `> whoami`
+### `> cat project.json`
 
 ```python
-rohan = {
-  "location"      : "Aachen, Germany 🇩🇪",
-  "education"     : [
-                      "M.Sc. Data Analytics & Decision Science — RWTH Aachen University",
-                      "B.E. Information Technology — Savitribai Phule Pune University (SPPU)"
-                    ],
-  "experience"    : "3+ yrs @ Voksedigital",
-  "certification" : "Microsoft Certified: Azure Data Engineer Associate (DP-203) ✅",
-  "languages"     : ["English", "Hindi", "German 🇩🇪 A2→B1"],
-  "open_to"       : "Internship / Werkstudent / Part-time Data Analytics roles"
+project = {
+  "title"      : "Sales Analytics — EDA Pipeline",
+  "author"     : "Rohan Bhosale",
+  "dataset"    : "Synthetic retail sales (1,000 orders · 2023)",
+  "stack"      : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+  "outputs"    : ["Monthly Revenue Trend", "Category Breakdown",
+                  "Region × Category Heatmap", "Discount Impact Analysis"],
+  "status"     : "✅ Complete"
 }
 ```
 
-- 🎓 Pursuing **M.Sc. Data Analytics & Decision Science** at RWTH Aachen University, building on a solid foundation from my **B.E. in Information Technology** (SPPU)
-- 💼 3+ years designing **enterprise-grade ETL pipelines**, scalable cloud architectures, and executive-level BI dashboards at Voksedigital
-- 🔬 Currently deepening expertise in **XGBoost, SHAP explainability, and time series forecasting** — bridging engineering rigour with analytical depth
-- 🏅 **Microsoft Certified Azure Data Engineer** — proficient across ADF, Databricks, ADLS, and Azure SQL
-- 🌍 Fluent in English · conversational Hindi · actively advancing German **(A2 → B1)**
-- 🚀 Open to **Internship / Werkstudent / Part-time** Data Analytics roles in Germany
-
-<br clear="right"/>
-
 ---
 
-### `> tech_stack --list`
+### `> ls ./outputs`
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/─────%20☁️%20Cloud%20%26%20Engineering%20─────-0d1117?style=for-the-badge"/>
-      <br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,linux&theme=dark"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/─────%20📊%20Analytics%20%26%20ML%20─────-0d1117?style=for-the-badge"/>
-      <br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,jupyter&theme=dark"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/───────────%20🗄️%20Databases%20───────────-0d1117?style=for-the-badge"/>
-      <br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+| Chart | Description |
+|---|---|
+| `monthly_revenue.png` | Revenue trend across all 12 months |
+| `category_breakdown.png` | Bar + pie chart of revenue per category |
+| `region_category_heatmap.png` | Revenue heatmap — region × category |
+| `discount_impact.png` | How discount levels affect revenue & order volume |
 
 </div>
 
 ---
 
-### `> ls ./projects`
+### `> cat charts.md`
 
 <div align="center">
 
-| 🚀 Project | 📋 Description | 🛠️ Stack | ⭐ Result |
-|---|---|---|---|
-| [🏦 Australian Credit Approval](https://github.com/rohanbhosalerb/Australian_Credit_Approval) | End-to-end credit approval classifier with EDA, feature selection & hyperparameter tuning | Python · SVM · LR · GridSearchCV | **87.68% acc · 0.92 AUC** |
-| 🔜 Employee Churn Prediction | Predict employee attrition with SHAP explainability | Python · XGBoost · SHAP | *Coming soon* |
-| 🔜 Sales Analytics Pipeline | ETL → SQL → interactive dashboard | Python · SQL · Power BI | *Coming soon* |
+**Monthly Revenue Trend**
+![Monthly Revenue](monthly_revenue.png)
+
+**Category Breakdown**
+![Category Breakdown](category_breakdown.png)
+
+**Region × Category Heatmap**
+![Heatmap](region_category_heatmap.png)
+
+**Discount Impact**
+![Discount Impact](discount_impact.png)
 
 </div>
 
 ---
 
-### `> cat stats.json`
+### `> ./run.sh`
 
-<div align="center">
+```bash
+# 1. Clone the repo
+git clone https://github.com/rohanbhosalerb/Sales-Analytics.git
+cd Sales-Analytics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohanbhosalerb&theme=tokyonight&hide_border=true&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+# 2. Install dependencies
+pip install -r requirements.txt
 
-</div>
+# 3. (Optional) Regenerate dataset
+python generate_data.py
+
+# 4. Run the analysis
+python analyze.py
+```
+
+---
+
+### `> cat output.log`
+
+```
+=======================================================
+📦  DATASET OVERVIEW
+=======================================================
+  Rows      : 1,000
+  Columns   : 9
+  Date range: 2023-01-01 → 2023-12-31
+
+🧹  Cleaned: dropped 40 incomplete rows → 960 remaining
+
+=======================================================
+📊  KEY METRICS
+=======================================================
+  Total Revenue   : $1,424,149.07
+  Avg Order Value : $1,483.49
+  Top Category    : Electronics
+
+  Revenue by Region:
+    West     $369,854.51
+    East     $361,340.30
+    South    $357,381.09
+    North    $335,573.17
+
+✅  Analysis complete!
+```
+
+---
+
+### `> ls ./project-structure`
+
+```
+Sales-Analytics/
+├── analyze.py                  # Main EDA & visualisation script
+├── generate_data.py            # Synthetic dataset generator
+├── sales_data.csv              # Dataset (1,000 orders)
+├── monthly_revenue.png         # Chart — monthly revenue trend
+├── category_breakdown.png      # Chart — revenue by category
+├── region_category_heatmap.png # Chart — region × category heatmap
+├── discount_impact.png         # Chart — discount vs revenue
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 
 ---
 
@@ -118,10 +141,6 @@ rohan = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhosale-rohan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbhosalede@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanbhosalerb)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rohanbhosalerb&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
