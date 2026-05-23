@@ -12,21 +12,19 @@
 
 ### `> whoami`
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" width="230" height="210" hspace="15" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 rohan = {
   "location"      : "Aachen, Germany 🇩🇪",
   "education"     : [
-                      "M.Sc. Data Analytics — RWTH Aachen University",
-                      "B.E. Information Technology — SPPU"
+                      "M.Sc. Data Analytics & Decision Science — RWTH Aachen University",
+                      "B.E. Information Technology — Savitribai Phule Pune University (SPPU)"
                     ],
   "experience"    : "3+ yrs @ Voksedigital",
-  "certification" : "Azure Data Engineer (DP-203) ✅",
+  "certification" : "Microsoft Certified: Azure Data Engineer Associate (DP-203) ✅",
   "languages"     : ["English", "Hindi", "German 🇩🇪 A2→B1"],
-  "open_to"       : "Internship / Werkstudent / Part-time"
+  "open_to"       : "Internship / Werkstudent / Part-time Data Analytics roles"
 }
 ```
 
@@ -37,12 +35,7 @@ rohan = {
 - 🌍 Fluent in English · conversational Hindi · actively advancing German **(A2 → B1)**
 - 🚀 Open to **Internship / Werkstudent / Part-time** Data Analytics roles in Germany
 
-</td>
-<td valign="top" width="40%" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
