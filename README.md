@@ -12,9 +12,9 @@
 
 ### `> whoami`
 
-<table border="0" cellspacing="10" cellpadding="10">
-<tr>
-<td bgcolor="#0d1117" valign="middle">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280"/>
+</p>
 
 ```python
 rohan = {
@@ -29,14 +29,6 @@ rohan = {
   "open_to"       : "Internship / Werkstudent / Part-time Data Analytics roles"
 }
 ```
-
-</td>
-<td bgcolor="#0d1117" width="40" valign="middle"> </td>
-<td bgcolor="#0d1117" valign="middle">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220"/>
-</td>
-</tr>
-</table>
 
 - 🎓 Pursuing **M.Sc. Data Analytics & Decision Science** at RWTH Aachen University, building on a solid foundation from my **B.E. in Information Technology** (SPPU)
 - 💼 3+ years designing **enterprise-grade ETL pipelines**, scalable cloud architectures, and executive-level BI dashboards at Voksedigital
