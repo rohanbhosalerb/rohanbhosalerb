@@ -12,9 +12,7 @@
 
 ### `> whoami`
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="middle">
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200"/>
 
 ```python
 rohan = {
@@ -30,13 +28,7 @@ rohan = {
 }
 ```
 
-</td>
-<td width="80"></td>
-<td valign="middle">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 - 🎓 Pursuing **M.Sc. Data Analytics & Decision Science** at RWTH Aachen University, building on a solid foundation from my **B.E. in Information Technology** (SPPU)
 - 💼 3+ years designing **enterprise-grade ETL pipelines**, scalable cloud architectures, and executive-level BI dashboards at Voksedigital
